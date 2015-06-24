@@ -1,5 +1,6 @@
 {
     "conference": {
+        "version": 1.0,
         "name": "",
         "location": {
             "address1": "",
