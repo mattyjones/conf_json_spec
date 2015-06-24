@@ -1,0 +1,18 @@
+{
+    "conference": {
+        "name": "",
+        "location": {
+            "address1": "",
+            "address2": "",
+            "city": "",
+            "state": "",
+            "zipcode": ""
+        },
+        "dates": {
+            "conf start": "",
+            "conf end": "",
+            "cfp start": "",
+            "cfp end": ""
+        }
+    }
+}
