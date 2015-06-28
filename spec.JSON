@@ -1,19 +1,25 @@
 {
     "conference": {
-        "version": 1.0,
         "name": "",
-        "location": {
-            "address1": "",
-            "address2": "",
-            "city": "",
-            "state": "",
-            "zipcode": ""
-        },
-        "dates": {
-            "conf start": "",
-            "conf end": "",
-            "cfp start": "",
-            "cfp end": ""
-        }
-    }
+        "year": [
+            {
+                "location": {
+                    "address1": "",
+                    "address2": "",
+                    "city": "",
+                    "state": "",
+                    "zipcode": ""
+                },
+                "dates": {
+                    "conf start": "",
+                    "conf end": "",
+                    "cfp start": "",
+                    "cfp end": ""
+                },
+                "conf_url": "",
+                "video_url": ""
+            }
+        ]
+    },
+    "spec_version": 1
 }
